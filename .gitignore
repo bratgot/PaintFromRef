@@ -1,0 +1,10 @@
+build/
+build-*/
+dist/
+__pycache__/
+test/*.png
+test/*.json
+test/*_out.txt
+test/test_out_*.txt
+probe/*_out.txt
+test/
